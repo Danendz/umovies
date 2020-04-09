@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/umovies/static/css/main.c8449c6b.chunk.css",
+    "main.css": "/umovies/static/css/main.c36fc8dc.chunk.css",
     "main.js": "/umovies/static/js/main.ac754f16.chunk.js",
     "main.js.map": "/umovies/static/js/main.ac754f16.chunk.js.map",
     "runtime-main.js": "/umovies/static/js/runtime-main.5e210e1b.js",
@@ -9,10 +9,10 @@
     "static/js/2.6f981ae2.chunk.js": "/umovies/static/js/2.6f981ae2.chunk.js",
     "static/js/2.6f981ae2.chunk.js.map": "/umovies/static/js/2.6f981ae2.chunk.js.map",
     "index.html": "/umovies/index.html",
-    "precache-manifest.b86237722080643dcd26656bfe2ed998.js": "/umovies/precache-manifest.b86237722080643dcd26656bfe2ed998.js",
+    "precache-manifest.fd56edc1c4bdfa2eef3f161a6eea4ebb.js": "/umovies/precache-manifest.fd56edc1c4bdfa2eef3f161a6eea4ebb.js",
     "service-worker.js": "/umovies/service-worker.js",
     "static/css/2.055c34a2.chunk.css.map": "/umovies/static/css/2.055c34a2.chunk.css.map",
-    "static/css/main.c8449c6b.chunk.css.map": "/umovies/static/css/main.c8449c6b.chunk.css.map",
+    "static/css/main.c36fc8dc.chunk.css.map": "/umovies/static/css/main.c36fc8dc.chunk.css.map",
     "static/js/2.6f981ae2.chunk.js.LICENSE.txt": "/umovies/static/js/2.6f981ae2.chunk.js.LICENSE.txt",
     "static/media/avengers.jpg": "/umovies/static/media/avengers.57982102.jpg",
     "static/media/avengersW.jpg": "/umovies/static/media/avengersW.927c17b9.jpg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.5e210e1b.js",
     "static/css/2.055c34a2.chunk.css",
     "static/js/2.6f981ae2.chunk.js",
-    "static/css/main.c8449c6b.chunk.css",
+    "static/css/main.c36fc8dc.chunk.css",
     "static/js/main.ac754f16.chunk.js"
   ]
 }
