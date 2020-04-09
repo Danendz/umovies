@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/umovies/static/css/main.ba84ad04.chunk.css",
-    "main.js": "/umovies/static/js/main.c0467742.chunk.js",
-    "main.js.map": "/umovies/static/js/main.c0467742.chunk.js.map",
+    "main.css": "/umovies/static/css/main.75751ef0.chunk.css",
+    "main.js": "/umovies/static/js/main.c15d9a18.chunk.js",
+    "main.js.map": "/umovies/static/js/main.c15d9a18.chunk.js.map",
     "runtime-main.js": "/umovies/static/js/runtime-main.5e210e1b.js",
     "runtime-main.js.map": "/umovies/static/js/runtime-main.5e210e1b.js.map",
-    "static/css/2.09a85fae.chunk.css": "/umovies/static/css/2.09a85fae.chunk.css",
-    "static/js/2.30817745.chunk.js": "/umovies/static/js/2.30817745.chunk.js",
-    "static/js/2.30817745.chunk.js.map": "/umovies/static/js/2.30817745.chunk.js.map",
+    "static/css/2.055c34a2.chunk.css": "/umovies/static/css/2.055c34a2.chunk.css",
+    "static/js/2.ce92b958.chunk.js": "/umovies/static/js/2.ce92b958.chunk.js",
+    "static/js/2.ce92b958.chunk.js.map": "/umovies/static/js/2.ce92b958.chunk.js.map",
     "index.html": "/umovies/index.html",
-    "precache-manifest.faddeb4e4e21e963c6a35f15de0ad187.js": "/umovies/precache-manifest.faddeb4e4e21e963c6a35f15de0ad187.js",
+    "precache-manifest.2e4120b569cfed361c091142cfa25e73.js": "/umovies/precache-manifest.2e4120b569cfed361c091142cfa25e73.js",
     "service-worker.js": "/umovies/service-worker.js",
-    "static/css/2.09a85fae.chunk.css.map": "/umovies/static/css/2.09a85fae.chunk.css.map",
-    "static/css/main.ba84ad04.chunk.css.map": "/umovies/static/css/main.ba84ad04.chunk.css.map",
-    "static/js/2.30817745.chunk.js.LICENSE.txt": "/umovies/static/js/2.30817745.chunk.js.LICENSE.txt",
+    "static/css/2.055c34a2.chunk.css.map": "/umovies/static/css/2.055c34a2.chunk.css.map",
+    "static/css/main.75751ef0.chunk.css.map": "/umovies/static/css/main.75751ef0.chunk.css.map",
+    "static/js/2.ce92b958.chunk.js.LICENSE.txt": "/umovies/static/js/2.ce92b958.chunk.js.LICENSE.txt",
     "static/media/avengers.jpg": "/umovies/static/media/avengers.57982102.jpg",
     "static/media/avengersW.jpg": "/umovies/static/media/avengersW.927c17b9.jpg",
     "static/media/fast9.jpg": "/umovies/static/media/fast9.d3b52e53.jpg",
@@ -23,9 +23,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5e210e1b.js",
-    "static/css/2.09a85fae.chunk.css",
-    "static/js/2.30817745.chunk.js",
-    "static/css/main.ba84ad04.chunk.css",
-    "static/js/main.c0467742.chunk.js"
+    "static/css/2.055c34a2.chunk.css",
+    "static/js/2.ce92b958.chunk.js",
+    "static/css/main.75751ef0.chunk.css",
+    "static/js/main.c15d9a18.chunk.js"
   ]
 }
