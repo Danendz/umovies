@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1fb8c009716da5edd9faf35582c5c31",
+    "revision": "a47fbfcbd61a36b736d7af6241144168",
     "url": "/umovies/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umovies/static/css/2.055c34a2.chunk.css"
   },
   {
-    "revision": "84ba6d9e7219b0fb5324",
-    "url": "/umovies/static/css/main.45614837.chunk.css"
+    "revision": "8ab99655ce01aeb03c61",
+    "url": "/umovies/static/css/main.c8449c6b.chunk.css"
   },
   {
     "revision": "46d5f5344b6de8982a36",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umovies/static/js/2.6f981ae2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84ba6d9e7219b0fb5324",
+    "revision": "8ab99655ce01aeb03c61",
     "url": "/umovies/static/js/main.ac754f16.chunk.js"
   },
   {
