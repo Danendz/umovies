@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.sass"],"names":[],"mappings":"AAAA,qBACI,kCAAmC,CAAG,6BAGtC,uBAAwB","file":"main.f2494616.chunk.css","sourcesContent":[".carousel-indicators {\n    justify-content: flex-end!important; }\n\n.carousel-indicators .active {\n    background-color: orange; }\n"]}
