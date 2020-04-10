@@ -8,20 +8,19 @@ import sixthImg from './img/fast9.jpg';
 import Carousel from 'react-bootstrap/Carousel';
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Button from 'react-bootstrap/Button';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
 
 
-const Slide = () => {
-    AOS.init({
-        duration: 1000
-    });
+
+const Slide = ({onEntered, onLeave, classes, onEntered2}) => {
+    
     return (
 
-        <Carousel controls={false} id="carousel" interval={6000} pause={false}>
-            <Carousel.Item>
-                <Jumbotron data-aos="fade-up">
-                    <h2 className="f3">31 SEPT 2019</h2>
+        <Carousel controls={false} id="carousel" pause={false}>
+
+            <Carousel.Item onMouseEnter={onEntered} onMouseLeave={onLeave}>
+
+                <Jumbotron className={`jm1 ${classes[0]}`}>
+                    <h2 className="f2">31 SEPT 2019</h2>
                     <h2 className="f2">AVENGERS - INFINITY WAR</h2>
                     <hr className="line" />
                     <p className="font-italic f5">
@@ -30,21 +29,25 @@ const Slide = () => {
                     <p>
                         <Button className="bShow f4 ph4 pv2" variant="outline-danger">Book Show</Button>
                         <Button className="trailer f4 ph4 pv2" variant="outline-success">Watch Trailer</Button>
-                        <i className="fa fa-star" aria-hidden="true"></i>
+                        <i className="fa fa-star first" aria-hidden="true"></i>
                         <i className="fa fa-star" aria-hidden="true"></i>
                         <i className="fa fa-star" aria-hidden="true"></i>
                         <i className="fa fa-star" aria-hidden="true"></i>
                         <i className="fa fa-star" aria-hidden="true"></i>
                     </p>
+
                 </Jumbotron>
+
                 <img
                     className="d-block w-100"
                     src={firstImg}
                     alt="First slide"
                 />
+
             </Carousel.Item>
-            <Carousel.Item>
-                <Jumbotron data-aos="fade-up" >
+
+            <Carousel.Item onMouseEnter={onEntered2} onMouseLeave={onLeave}>
+                <Jumbotron className={`jm2 ${classes[1]}`}>
                     <h2 className="f3">14 AUGUST 2020</h2>
                     <h2 className="f2">Wonder Woman - 1984</h2>
                     <hr className="line" />
@@ -67,8 +70,8 @@ const Slide = () => {
                     alt="Third slide"
                 />
             </Carousel.Item>
-            <Carousel.Item>
-                <Jumbotron>
+            <Carousel.Item onMouseEnter={onEntered} onMouseLeave={onLeave}>
+                <Jumbotron className={`jm3 ${classes[2]}`}>
                     <h2 className="f3">31 SEPT 2019</h2>
                     <h2 className="f2">AVENGERS - INFINITY WAR</h2>
                     <hr className="line" />
@@ -91,8 +94,8 @@ const Slide = () => {
                     alt="Third slide"
                 />
             </Carousel.Item>
-            <Carousel.Item>
-                <Jumbotron>
+            <Carousel.Item onMouseEnter={onEntered2} onMouseLeave={onLeave}>
+                <Jumbotron className={`jm4 ${classes[3]}`}>
                     <h2 className="f3">3 OCTOBER 2019</h2>
                     <h2 className="f2">J O K E R</h2>
                     <hr className="line" />
@@ -115,8 +118,8 @@ const Slide = () => {
                     alt="Third slide"
                 />
             </Carousel.Item>
-            <Carousel.Item>
-                <Jumbotron>
+            <Carousel.Item onMouseEnter={onEntered} onMouseLeave={onLeave}>
+                <Jumbotron className={`jm5 ${classes[4]}`}>
                     <h2 className="f3">11 MAY 2017</h2>
                     <h2 className="f2">PIRATES OF THE CARIBBEAN</h2>
                     <hr className="line" />
@@ -139,8 +142,8 @@ const Slide = () => {
                     alt="Third slide"
                 />
             </Carousel.Item>
-            <Carousel.Item>
-                <Jumbotron>
+            <Carousel.Item onMouseEnter={onEntered2} onMouseLeave={onLeave}>
+                <Jumbotron className={`jm6 ${classes[5]}`}>
                     <h2 className="f3">9 APRIL 2020</h2>
                     <h2 className="f2">FAST & FURIOUS - 9</h2>
                     <hr className="line" />
@@ -164,7 +167,6 @@ const Slide = () => {
                 />
             </Carousel.Item>
         </Carousel>
-
     );
 
 }

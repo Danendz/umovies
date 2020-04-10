@@ -45,7 +45,7 @@ const RecommendedMovies = () => {
                         <i className="fa fa-star" aria-hidden="true"></i>
                         <i className="fa fa-star" aria-hidden="true"></i>
                         <i className="fa fa-star" aria-hidden="true"></i>
-                        <i className="fa fa-star" aria-hidden="true"></i>
+                        <i className="fa fa-star mb2" aria-hidden="true"></i>
                     </Card.Body>
                     <Button className="f4 ph4 pv2 dwn" variant="outline-danger">Download</Button>
                 </Card>
@@ -62,8 +62,7 @@ const RecommendedMovies = () => {
                         <i className="fa fa-star" aria-hidden="true"></i>
                         <i className="fa fa-star" aria-hidden="true"></i>
                         <i className="fa fa-star" aria-hidden="true"></i>
-                        <i className="fa fa-star" aria-hidden="true"></i>
-                        
+                        <i className="fa fa-star mb2" aria-hidden="true"></i>
                     </Card.Body>
                     <Button className="f4 ph4 pv2 dwn" variant="outline-danger">Download</Button>
                 </Card>
