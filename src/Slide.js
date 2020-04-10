@@ -15,7 +15,7 @@ const Slide = ({onEntered, onLeave, classes, onEntered2}) => {
     
     return (
 
-        <Carousel controls={false} id="carousel" pause={false}>
+        <Carousel controls={false} id="carousel" interval={5000} pause={false}>
 
             <Carousel.Item onMouseEnter={onEntered} onMouseLeave={onLeave}>
 

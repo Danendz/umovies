@@ -36,7 +36,7 @@ class App extends Component {
   }
 
   leave = (event) => {
-    this.setState({ class1: '' })
+    this.setState({ class1: 'leave' })
     this.setState({ class3: '' })
     this.setState({ class5: '' })
     this.setState({ class2: '' })
