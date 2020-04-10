@@ -6,9 +6,8 @@ import Navbar from 'react-bootstrap/Navbar';
 const Navigation = () => {
 
     return (
-        <nav>
             <Navbar fixed="top" collapseOnSelect expand="lg" variant="dark">
-                <Navbar.Brand className="ml5 pr4 f2" href="#home"><span className="uSymbol">U</span>MOVIES</Navbar.Brand>
+                <Navbar.Brand className="ml5 pr4 pl4 f2" href="#home"><span className="uSymbol">U</span>MOVIES</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="mr-auto text-right">
@@ -24,7 +23,6 @@ const Navigation = () => {
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
-        </nav>
     );
 }
 export default Navigation;
