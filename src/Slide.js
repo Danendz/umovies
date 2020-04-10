@@ -16,9 +16,6 @@ const Slide = () => {
     AOS.init({
         duration: 1000
     });
-    const entered = (e => {
-        
-    })
     return (
 
         <Carousel controls={false} id="carousel" interval={6000} pause={false}>
@@ -33,11 +30,11 @@ const Slide = () => {
                     <p>
                         <Button className="bShow f4 ph4 pv2" variant="outline-danger">Book Show</Button>
                         <Button className="trailer f4 ph4 pv2" variant="outline-success">Watch Trailer</Button>
-                        <i className="fa fa-star first" onMouseEnter={entered} aria-hidden="true"></i>
-                        <i className="fa fa-star second" aria-hidden="true"></i>
-                        <i className="fa fa-star third" aria-hidden="true"></i>
-                        <i className="fa fa-star fourth" aria-hidden="true"></i>
-                        <i className="fa fa-star fifth" aria-hidden="true"></i>
+                        <i className="fa fa-star" aria-hidden="true"></i>
+                        <i className="fa fa-star" aria-hidden="true"></i>
+                        <i className="fa fa-star" aria-hidden="true"></i>
+                        <i className="fa fa-star" aria-hidden="true"></i>
+                        <i className="fa fa-star" aria-hidden="true"></i>
                     </p>
                 </Jumbotron>
                 <img
