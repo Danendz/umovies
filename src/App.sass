@@ -126,86 +126,9 @@ article
     width: 70% 
 
 .jm1
-    transition: ease-in-out 1s!important
-    opacity: 1
+    transition: ease-in-out .8s!important
+    transition-delay: .5s!important
     transform: translateX(-100%)
-
-.animated
-    
-    -webkit-animation: swing 10s ease;
-    animation: swing 5s ease;
-    -webkit-animation-duration: 2s;
-    animation-duration: 2s;
-    transform: translateX(0%)
-    opacity: 1
-
-.leave
-    -webkit-animation-duration: 1s;
-    animation-duration: 1s;
-    -webkit-animation: swingReverse 1s ease;
-    animation: swingReverse 1s ease;
-    transform: translateX(-100%)
-    opacity: 0
-
-@keyframes swingReverse
-    0%
-        transform: translateX(0%)
-
-    15%
-    
-        -webkit-transform: translateX(-5%);
-        transform: translateX(-5%);
-    
-    30%
-    
-        -webkit-transform: translateX(5px);
-        transform: translateX(5px);
-    
-    50%
-    
-        -webkit-transform: translateX(-3px);
-        transform: translateX(-3px);
-    
-    75%
-    
-        -webkit-transform: translateX(3px);
-        transform: translateX(3px);
-    
-    100%
-    
-        -webkit-transform: translateX(-100%);
-        transform: translateX(-100%);
-
-
-@keyframes swing
-    0%
-        transform: translateX(-100%)
-
-    15%
-    
-        -webkit-transform: translateX(5%);
-        transform: translateX(5%);
-    
-    30%
-    
-        -webkit-transform: translateX(-5px);
-        transform: translateX(-5px);
-    
-    50%
-    
-        -webkit-transform: translateX(3px);
-        transform: translateX(3px);
-    
-    65%
-    
-        -webkit-transform: translateX(-3px);
-        transform: translateX(-3px);
-    
-    100%
-    
-        -webkit-transform: translateX(0%);
-        transform: translateX(0%);
-    
 
 .jm2
     transition: ease-in-out .8s!important
@@ -246,7 +169,8 @@ article
     opacity: 1;
 
 .jm6
-    transition: ease-in-out .7s!important
+    transition: ease-in-out .8s!important
+    transition-delay: .5s!important
     transform: scale(0.0, 0.0)!important
 
 
@@ -309,7 +233,7 @@ article
 
 ::-webkit-scrollbar
     width: 5px
-    background-color: rgba(141,0,255,1)
+    background-color: #002e6900
         
 ::-webkit-scrollbar-thumb
     border-radius: 20px
