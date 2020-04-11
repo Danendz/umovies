@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdb5eae36408412eb62c6e01eca21a25",
+    "revision": "8d6756d5f345ddd8f3a5df499b30af50",
     "url": "/umovies/index.html"
   },
   {
-    "revision": "1822d0f6db1fc6eddb02",
+    "revision": "93a5d6fb338628d03a01",
     "url": "/umovies/static/css/2.09a85fae.chunk.css"
   },
   {
-    "revision": "534357b4ececdbb9abd2",
-    "url": "/umovies/static/css/main.f87189e3.chunk.css"
+    "revision": "faa8ce06bfaa0c52f0b2",
+    "url": "/umovies/static/css/main.67c15a97.chunk.css"
   },
   {
-    "revision": "1822d0f6db1fc6eddb02",
-    "url": "/umovies/static/js/2.77eea9d0.chunk.js"
+    "revision": "93a5d6fb338628d03a01",
+    "url": "/umovies/static/js/2.aa97c812.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/umovies/static/js/2.77eea9d0.chunk.js.LICENSE.txt"
+    "url": "/umovies/static/js/2.aa97c812.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "534357b4ececdbb9abd2",
-    "url": "/umovies/static/js/main.cab1a397.chunk.js"
+    "revision": "faa8ce06bfaa0c52f0b2",
+    "url": "/umovies/static/js/main.9abc5b3e.chunk.js"
   },
   {
     "revision": "d74be15cac58be2e6497",
