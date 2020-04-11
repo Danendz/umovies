@@ -1,8 +1,8 @@
-import firstImg from './img/avengers.jpg';
-import secondImg from './img/woman.jpg';
-import thirdImg from './img/avengersW.jpg';
+import firstImg from './img/avengers-min.jpg';
+import secondImg from './img/woman-min.jpg';
+import thirdImg from './img/avengersW-min.jpg';
 import fourthImg from './img/jokerC.jpg';
-import fifthImg from './img/pirates.jpg';
+import fifthImg from './img/pirates-min.jpg';
 import sixthImg from './img/fast9.jpg';
 
 export const Slides = [
