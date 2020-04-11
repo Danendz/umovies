@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/umovies/static/css/main.67c15a97.chunk.css",
-    "main.js": "/umovies/static/js/main.9abc5b3e.chunk.js",
-    "main.js.map": "/umovies/static/js/main.9abc5b3e.chunk.js.map",
+    "main.js": "/umovies/static/js/main.8ada2600.chunk.js",
+    "main.js.map": "/umovies/static/js/main.8ada2600.chunk.js.map",
     "runtime-main.js": "/umovies/static/js/runtime-main.5e210e1b.js",
     "runtime-main.js.map": "/umovies/static/js/runtime-main.5e210e1b.js.map",
     "static/css/2.09a85fae.chunk.css": "/umovies/static/css/2.09a85fae.chunk.css",
     "static/js/2.aa97c812.chunk.js": "/umovies/static/js/2.aa97c812.chunk.js",
     "static/js/2.aa97c812.chunk.js.map": "/umovies/static/js/2.aa97c812.chunk.js.map",
     "index.html": "/umovies/index.html",
-    "precache-manifest.102b6632818795761fe490cc711f3209.js": "/umovies/precache-manifest.102b6632818795761fe490cc711f3209.js",
+    "precache-manifest.1b0834f34c55b30a8b3153a39331760a.js": "/umovies/precache-manifest.1b0834f34c55b30a8b3153a39331760a.js",
     "service-worker.js": "/umovies/service-worker.js",
     "static/css/2.09a85fae.chunk.css.map": "/umovies/static/css/2.09a85fae.chunk.css.map",
     "static/css/main.67c15a97.chunk.css.map": "/umovies/static/css/main.67c15a97.chunk.css.map",
     "static/js/2.aa97c812.chunk.js.LICENSE.txt": "/umovies/static/js/2.aa97c812.chunk.js.LICENSE.txt",
-    "static/media/avengers.jpg": "/umovies/static/media/avengers.57982102.jpg",
-    "static/media/avengersW.jpg": "/umovies/static/media/avengersW.927c17b9.jpg",
+    "static/media/avengers-min.jpg": "/umovies/static/media/avengers-min.4117011a.jpg",
+    "static/media/avengersW-min.jpg": "/umovies/static/media/avengersW-min.1330ab76.jpg",
     "static/media/fast9.jpg": "/umovies/static/media/fast9.d3b52e53.jpg",
     "static/media/jokerC.jpg": "/umovies/static/media/jokerC.359d205d.jpg",
-    "static/media/pirates.jpg": "/umovies/static/media/pirates.d34d8661.jpg",
-    "static/media/woman.jpg": "/umovies/static/media/woman.94edba74.jpg"
+    "static/media/pirates-min.jpg": "/umovies/static/media/pirates-min.f96cb30d.jpg",
+    "static/media/woman-min.jpg": "/umovies/static/media/woman-min.f3de5680.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5e210e1b.js",
     "static/css/2.09a85fae.chunk.css",
     "static/js/2.aa97c812.chunk.js",
     "static/css/main.67c15a97.chunk.css",
-    "static/js/main.9abc5b3e.chunk.js"
+    "static/js/main.8ada2600.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d6756d5f345ddd8f3a5df499b30af50",
+    "revision": "b0c9eb6f226dde57dbf14ea10ec656c6",
     "url": "/umovies/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umovies/static/css/2.09a85fae.chunk.css"
   },
   {
-    "revision": "faa8ce06bfaa0c52f0b2",
+    "revision": "03c4ff6cddc602f4e14a",
     "url": "/umovies/static/css/main.67c15a97.chunk.css"
   },
   {
@@ -20,20 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umovies/static/js/2.aa97c812.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "faa8ce06bfaa0c52f0b2",
-    "url": "/umovies/static/js/main.9abc5b3e.chunk.js"
+    "revision": "03c4ff6cddc602f4e14a",
+    "url": "/umovies/static/js/main.8ada2600.chunk.js"
   },
   {
     "revision": "d74be15cac58be2e6497",
     "url": "/umovies/static/js/runtime-main.5e210e1b.js"
   },
   {
-    "revision": "57982102a6a9948b2d0c8d124bb1dbd8",
-    "url": "/umovies/static/media/avengers.57982102.jpg"
+    "revision": "4117011a3d986c2479d8d886d4fcc32c",
+    "url": "/umovies/static/media/avengers-min.4117011a.jpg"
   },
   {
-    "revision": "927c17b90bd6dbb2a7eda548e32dbdfa",
-    "url": "/umovies/static/media/avengersW.927c17b9.jpg"
+    "revision": "1330ab7652a1e78c83984df910bc96ba",
+    "url": "/umovies/static/media/avengersW-min.1330ab76.jpg"
   },
   {
     "revision": "d3b52e531ec00c2a128975a634538cf7",
@@ -44,11 +44,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umovies/static/media/jokerC.359d205d.jpg"
   },
   {
-    "revision": "d34d86612487333d0ff96fc0fa8b6406",
-    "url": "/umovies/static/media/pirates.d34d8661.jpg"
+    "revision": "f96cb30d3eda7d06d69936adc9a74cf7",
+    "url": "/umovies/static/media/pirates-min.f96cb30d.jpg"
   },
   {
-    "revision": "94edba74785d696da56c3d212b2e2b59",
-    "url": "/umovies/static/media/woman.94edba74.jpg"
+    "revision": "f3de5680e89cbc654dd92040e31abeea",
+    "url": "/umovies/static/media/woman-min.f3de5680.jpg"
   }
 ]);
